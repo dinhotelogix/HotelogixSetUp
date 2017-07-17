@@ -2,6 +2,7 @@ package Configuration;
 
 public class Constants 
 {
+	//Test Commit
 	//public static final String URLAdmin = "http://livestable.hx.local/admine/login/";
 	//public static final String URLAdmin = "http://hotelogix.stayezee.com/admine/login/";
 	//public static final String URLAdmin = "https://staygrid.com/admine/login/";
